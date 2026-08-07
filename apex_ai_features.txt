@@ -1,0 +1,4 @@
+soc
+power_demand_frac
+fuel_frac
+prev_state_charging
